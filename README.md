@@ -1,2 +1,3 @@
 # HelloWorld
 An introduction to GitHub for me
+Editing and checking in a new version. Let's see how this stuff works...
